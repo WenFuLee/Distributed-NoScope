@@ -1,0 +1,7 @@
+90 910
+2000 total frames / 1 frame interval = 2000 actual frames
+(2000, 50, 50, 3)
+90 910
+2000 total frames / 1 frame interval = 2000 actual frames
+(2000, 608, 608, 3)
+Num of RNN:  1  Run Time:  521.9440484046936
